@@ -1,3 +1,8 @@
+## Swipe.js
+Forked from https://github.com/bradbirdsall/Swipe
+
+Added mouseswipe support for previewing purposes.
+
 ## Usage
 Swipe only needs to follow a simple pattern. Here is an example:
 
